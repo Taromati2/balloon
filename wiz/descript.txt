@@ -50,7 +50,7 @@ sstpmarker.x,28
 sstpmarker.y,-13
 sstpmessage.x,40
 sstpmessage.y,-14
-sstpmessage.font.name,‚l‚r ƒSƒVƒbƒN
+sstpmessage.font.name,ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯
 sstpmessage.font.height,10
 sstpmessage.font.color.r,255
 sstpmessage.font.color.g,255
@@ -68,5 +68,4 @@ anchor.font.color.b,255
 anchor.pen.color.r,255
 anchor.pen.color.g,255
 anchor.pen.color.b,255
-
 
